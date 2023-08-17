@@ -5,5 +5,10 @@
     "activityBar.background": "#1C3315",
     "titleBar.activeBackground": "#28471E",
     "titleBar.activeForeground": "#F7FBF5"
-  }
+  },
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true
 }
